@@ -1,3 +1,0 @@
-<center>
-	<p></p>
-</center>
