@@ -1,0 +1,19 @@
+.abs {
+	position:absolute;
+}
+#btn.box {
+	position:reletive;
+}
+.btn_hide {
+	display:none;
+}
+.vs {
+	padding-left:5px;
+}
+.underline{
+	font-weight: bold;
+//	border-bottom: 1px solid red;
+}
+#requests_box {
+	
+}
